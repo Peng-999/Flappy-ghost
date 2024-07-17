@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "ghost",
+  "identifier": "texture:216767-9c485629-0601-41c2-8a8f-f9027fcf0061",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "d5d4e443b29b134ee4d792543183b5a5",
+  "assetLocator": "textures/ghost(2).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "d5d4e443b29b134ee4d792543183b5a5",
+      "colorCount": 927,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.3598921184342423,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "modelName": "blendedMaterial",
+  "name": "obstacle",
+  "identifier": "blendedMaterial:220343-9c485629-0601-41c2-8a8f-f9027fcf0061",
+  "alphaTestEnabled": false,
+  "alphaTestThreshold": 0,
+  "blendMode": "Normal",
+  "cullMode": "back",
+  "diffuseTextureName": "texture:212995-9c485629-0601-41c2-8a8f-f9027fcf0061",
+  "diffuseTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "doubleSided": false,
+  "importIssues": {},
+  "isDiffuseTextureIdentifierEnabled": true,
+  "readDepth": true,
+  "transparency": 1,
+  "writeDepth": true,
+  "writesToColorBufferAlpha": true,
+  "writesToColorBufferBlue": true,
+  "writesToColorBufferGreen": true,
+  "writesToColorBufferRed": true
+}
